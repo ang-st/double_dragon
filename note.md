@@ -18,16 +18,25 @@
 
 ### BTP
 
-
 * fixation 
 * isolation laine de roche ou carton :)
 * plaque de BA13 
 * rails
 
+exemple de prix:
+* Bricoman
+- plaque de platre standard BA13 1.80€/m2
+- plaque de platre plus epaisse  2.65€/m2
+- laine de verre 2.36€/m2
+- rails fixation ? (ou tasseau mais comment les fixer)
 estimation : 2.30e /m2 pour ba13 + rail 2.40 * ~15
 
-### Elec
-* boitier ele ///
 
+### Elec/prises/rj45
+* boitier ele ///
+* prises rj45 murales. cbien ? (2 zone reu, 2 zone soudure/elec, 2 zone dev/info) ?
 * cablerie  
     
+### Chauffage
+- 2 elec supplementaires ?
+- soufflant de chantier ?
