@@ -15,3 +15,19 @@
 >Il faut prévoir de quoi mettre du jus.. mais là on doit pouvoir faire
 >la récup...
 
+
+### BTP
+
+
+* fixation 
+* isolation laine de roche ou carton :)
+* plaque de BA13 
+* rails
+
+estimation : 2.30e /m2 pour ba13 + rail 2.40 * ~15
+
+### Elec
+* boitier ele ///
+
+* cablerie  
+    
