@@ -40,3 +40,12 @@ estimation : 2.30e /m2 pour ba13 + rail 2.40 * ~15
 ### Chauffage
 - 2 elec supplementaires ?
 - soufflant de chantier ?
+
+
+
+designation| quantite |prix unitaire| total | url 
+-----------|----------|-------------|-------|-----
+plaque de platre | 50 | 6.90      | 345 | http://www.bricoman.fr/m031/plaque-de-platre-ba-13.html#17102
+laine de verre | 13 * 16 | 29.5 |  383.5 | http://www.bricoman.fr/m031/panneau-en-laine-de-verre-semi-rigide-38.html#44529
+rail fixation | 134 |  1.6 | 214.4 | http://www.bricoman.fr/m031/bricolage/materiaux/cloisons-et-plafonds/rail-de-48-ep-5-10.html
+vis place | 2 | 5,95 | 11.9 | http://www.bricoman.fr/m031/bricolage/materiaux/cloisons-et-plafonds/ossatures-metalliques/boite-de-1000-vis-pour-plaque-de-platre.html#16478 
