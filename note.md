@@ -56,4 +56,6 @@ vis placo | 2 | 5,95 | 11.9 | http://www.bricoman.fr/m031/bricolage/materiaux/cl
 * visseuse  2  
 * scie sauteuse  1  
 * escabeau 2 
-*  ..
+* vis auto perfo
+* leve-plaque (location 24e)
+ 
