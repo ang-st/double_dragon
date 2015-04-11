@@ -8,12 +8,18 @@ skp file by guillaume,fred,nounours
 clone, fork, amend :)
 
 
-### vidage du container
+### rangement containers
 
+container droit
 ![](img/20150411_191832.jpg) 
+container gauche
 ![](img/20150411_191930.jpg)
+le marché des artistes :)
 ![](img/20150411_192001.jpg)
+materiel labo photo
 ![](img/20150411_192026.jpg)
+materiel labo photo 2
 ![](img/20150411_192041.jpg)
+materiel divers posé a l'arriere des rouchs
 ![](img/20150411_192119.jpg)
 ![](img/20150411_192134.jpg)
