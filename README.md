@@ -20,6 +20,7 @@ materiel labo photo
 ![](img/20150411_192026.jpg)
 materiel labo photo 2
 ![](img/20150411_192041.jpg)
-materiel divers posé a l'arriere des rouchs
+rack arriere rouch
 ![](img/20150411_192119.jpg)
+rack arriere rouch 2
 ![](img/20150411_192134.jpg)
