@@ -5,8 +5,8 @@ ici limité a 16/18A car limité par la ligne electrique
 * compresseur
 * meuleuse 
 
-<img src="./img/IMG_20150716_153541.jpg" width="100">
-<img src="./img/IMG_20150716_160553.jpg" width="100">
+<img src="./img/IMG_20150716_153541.jpg" width="200">
+<img src="./img/IMG_20150716_160553.jpg" width="200">
 
 #jour 1
 
@@ -16,5 +16,5 @@ ici limité a 16/18A car limité par la ligne electrique
 * ebarbage des restes de coupe
 
 
-<img src="./img/IMG_20150720_115014.jpg" width="100">
-<img src="./img/IMG_20150720_115037.jpg" width="100">
+<img src="./img/IMG_20150720_115037.jpg" width="200">
+<img src="./img/IMG_20150720_115014.jpg" width="200">
