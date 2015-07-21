@@ -23,8 +23,8 @@ ici limité a 16/18A car limité par la ligne electrique
 
 #jour2
 
-| | | |
-|-|-|-|
+| galery | du  | cowboy |
+|---|---|---|
 |*Still* | `renders` | **nicely**|
 |1 | 2 | 3 |
 
