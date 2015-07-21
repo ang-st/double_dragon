@@ -23,9 +23,9 @@ ici limité a 16/18A car limité par la ligne electrique
 
 #jour2
 
-
-| galery | du  | cowboy |
-|---|---|---|
-|![alt text](img/jour2/resised-IMG_20150721_115533.jpg)|![alt text](img/jour2/resised-IMG_20150721_115551.jpg)|![alt text](img/jour2/resised-IMG_20150721_115556.jpg)
-|![alt text](img/jour2/resised-IMG_20150721_115610.jpg)|![alt text](img/jour2/resised-IMG_20150721_115935.jpg)|![alt text](img/jour2/resised-IMG_20150721_120010.jpg)
-|![alt text](img/jour2/resised-IMG_20150721_120024.jpg)|![alt text](img/jour2/resised-IMG_20150721_120042.jpg)|![alt text](img/jour2/VID_20150721_120044.m4v)
+| galery | du cowboy |
+|---|---|
+|![alt text](img/jour2/resised-IMG_20150721_115533.jpg)|![alt text](img/jour2/resised-IMG_20150721_115551.jpg)
+|![alt text](img/jour2/resised-IMG_20150721_115556.jpg)|![alt text](img/jour2/resised-IMG_20150721_115610.jpg)
+|![alt text](img/jour2/resised-IMG_20150721_115935.jpg)|![alt text](img/jour2/resised-IMG_20150721_120010.jpg)
+|![alt text](img/jour2/resised-IMG_20150721_120024.jpg)|![alt text](img/jour2/resised-IMG_20150721_120042.jpg)
