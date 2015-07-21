@@ -22,8 +22,9 @@ ici limité a 16/18A car limité par la ligne electrique
 
 
 #jour2
- | |
--|-|-
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+
+| | | |
+|-|-|-|
+|*Still* | `renders` | **nicely**|
+|1 | 2 | 3 |
 
