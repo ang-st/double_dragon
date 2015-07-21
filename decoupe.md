@@ -7,7 +7,7 @@ ici limité a 16/18A car limité par la ligne electrique
 
 | galery | du cowboy |
 |---|---|
-|![]("./img/resised-IMG_20150716_153541.jpg")|[]("./img/resised-IMG_20150716_160553.jpg")|
+|![alt]("./img/resised-IMG_20150716_153541.jpg")|[alt]("./img/resised-IMG_20150716_160553.jpg")|
 
 
 #jour 1
@@ -21,7 +21,7 @@ ici limité a 16/18A car limité par la ligne electrique
 
 | galery | du cowboy |
 |---|---|
-|![]("./img/resised-IMG_20150720_115037.jpg")|[]("./img/resised-IMG_20150720_115014.jpg")|
+|![alt]("./img/resised-IMG_20150720_115037.jpg")|[alt]("./img/resised-IMG_20150720_115014.jpg")|
 
 
 
