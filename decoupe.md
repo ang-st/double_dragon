@@ -17,7 +17,7 @@ ici limité a 16/18A car limité par la ligne electrique
 * degaushissage traverse sous container
 * ebarbage des restes de coupe
 
-* present : Dr Xano, frtk, metaB
+* present : Dr Xano, frtk, metaB, pg
 
 | galery | du cowboy |
 |---|---|
@@ -29,6 +29,7 @@ ici limité a 16/18A car limité par la ligne electrique
 
 * tracé des decoupes
 * découpe de 3 fenetres 
+* present : Dr Xano, frtk, metaB, pg
 
 
 | galery | du cowboy |
