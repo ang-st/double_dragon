@@ -23,8 +23,9 @@ ici limité a 16/18A car limité par la ligne electrique
 
 #jour2
 
+
 | galery | du  | cowboy |
 |---|---|---|
-|*Still* | `renders` | **nicely**|
-|1 | 2 | 3 |
-
+|< img src="img/jour2/IMG_20150721_115533.jpg">|< img src="img/jour2/IMG_20150721_115551.jpg"> |< img src="img/jour2/IMG_20150721_115556.jpg">|
+|< img src="img/jour2/IMG_20150721_115610.jpg">|< img src="img/jour2/IMG_20150721_115935.jpg"> |< img src="img/jour2/IMG_20150721_120010.jpg">|
+|< img src="img/jour2/IMG_20150721_120024.jpg">|< img src="img/jour2/IMG_20150721_120042.jpg"> |< img src="img/jour2/VID_20150721_120044.m4v">|
