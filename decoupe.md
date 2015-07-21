@@ -23,6 +23,10 @@ ici limité a 16/18A car limité par la ligne electrique
 
 #jour2
 
+* tracé des decoupes
+* découpe de 3 fenetres 
+
+
 | galery | du cowboy |
 |---|---|
 |![alt text](img/jour2/resised-IMG_20150721_115533.jpg)|![alt text](img/jour2/resised-IMG_20150721_115551.jpg)
