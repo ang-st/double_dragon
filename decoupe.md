@@ -19,3 +19,10 @@ ici limité a 16/18A car limité par la ligne electrique
 
 <img src="./img/IMG_20150720_115037.jpg" width="200">
 <img src="./img/IMG_20150720_115014.jpg" width="200">
+
+
+#jour2
+
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
